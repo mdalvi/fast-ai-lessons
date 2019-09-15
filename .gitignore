@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# mnist ignores
+course-v3/nbs/dl1/data/mnist/*.csv
+course-v3/nbs/dl1/data/mnist/images/*
+!course-v3/nbs/dl1/data/mnist/images/__init__.py
