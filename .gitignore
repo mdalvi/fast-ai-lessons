@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# pycharm
+.idea
+
 # mnist ignored
 course-v3/nbs/dl1/data/mnist/*.csv
 course-v3/nbs/dl1/data/mnist/images/*
